@@ -1,0 +1,13 @@
+a: left foot ------------ not to use
+
+b: left right [TRUE]
+
+c: left right [artificial]
+
+d: left right [artificial]
+
+e: left right [artificial]
+
+f: left foot ------------ not to use
+
+g: left right [TRUE]

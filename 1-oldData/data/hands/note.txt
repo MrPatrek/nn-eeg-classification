@@ -1,0 +1,3 @@
+Here you put ALL the "BCICIV_calib_..." datasets (together 7 files) from the data source "https://www.bbci.de/competition/iv/".
+
+Go to "Download of data sets" --> "Data Set 1" --> "100Hz data: Matlab files zipped"

@@ -1,1 +1,1 @@
-Here you put all the testing datasets.
+Here you put "S10_..." and "S11_..." datasets (together 2x2 = 4 files) from the data source "https://github.com/mastaneht/SPIS-Resting-State-Dataset" from the "Pre-SART EEG" directory.

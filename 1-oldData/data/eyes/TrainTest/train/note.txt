@@ -1,1 +1,1 @@
-Here you put all the training datasets.
+Here you put all the datasets starting from "S02_..." up to "S09_..." (together 8x2 = 16 files) from the data source "https://github.com/mastaneht/SPIS-Resting-State-Dataset" from the "Pre-SART EEG" directory.
